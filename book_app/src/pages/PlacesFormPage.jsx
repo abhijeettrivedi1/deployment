@@ -1,4 +1,4 @@
-import Perks from "../perks";
+import Perks from "../Perks";
 import { useEffect, useState } from "react";
 import Photosuploader from "../Photosuploader";
 import AccountNav from "../AccountNav";
